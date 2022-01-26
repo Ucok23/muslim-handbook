@@ -1,4 +1,4 @@
-{
+const aqiqah = {
     "data": {
         "dalil": [
             {
@@ -30,3 +30,5 @@
         ]
     }
 }
+
+export default aqiqah;
